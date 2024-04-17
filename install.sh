@@ -7,7 +7,7 @@ reset="\e[0m"
 
 runtime_link=$1
 
-source <(curl -s https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/BashSelect.sh)
+source <(curl -s https://raw.githubusercontent.com/Jakob434/BashSelect/main/BashSelect.sh)
 clear
 status(){
   clear
@@ -31,7 +31,7 @@ runCommand(){
 }
 
 
-source <(curl -s https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/BashSelect.sh)
+source <(curl -s https://raw.githubusercontent.com/Jakob434/BashSelect/main/BashSelect.sh)
 
 status "Install MariaDB/MySQL and phpmyadmin"
 
