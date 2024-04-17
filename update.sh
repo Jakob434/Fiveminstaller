@@ -28,7 +28,7 @@ runCommand(){
     fi
 }
 
-source <(curl -s https://raw.githubusercontent.com/GermanJag/BashSelect.sh/main/BashSelect.sh)
+source <(curl -s https://raw.githubusercontent.com/Jakob434/BashSelect/main/BashSelect.sh)
 clear
 
 
